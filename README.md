@@ -31,4 +31,4 @@ By Fermat's Theorem, we know that:
 Therefore, k^(p-2) must be a multiplicative inverse of k. We need to compute k^(p-2) rem p, which we can do by successive squaring.     
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
